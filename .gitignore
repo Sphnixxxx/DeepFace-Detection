@@ -1,0 +1,33 @@
+# ── Trained Models ───────────────────────────────────────────
+*.pth
+*.keras
+best_model*
+
+
+# ── Data  ──────────────────────────────────────────────────
+data/
+*.csv
+
+# ── Jupyter Notebook artifacts ────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+.env
+.venv/
+
+# ── OS junk ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
