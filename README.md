@@ -68,7 +68,7 @@ jupyter notebook notebooks/deepface_detection.ipynb
 | TensorFlow | Custom CNN | 0.64 |
 | PyTorch | Custom CNN | 0.66 |
 
-> Fill in your results after training.
+> results after training.
 
 ---
 
