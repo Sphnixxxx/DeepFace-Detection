@@ -65,8 +65,8 @@ jupyter notebook notebooks/deepface_detection.ipynb
 
 | Framework | Model | Val Accuracy |
 |---|---|---|
-| TensorFlow | Custom CNN | TBD |
-| PyTorch | Custom CNN | TBD |
+| TensorFlow | Custom CNN | 0.64 |
+| PyTorch | Custom CNN | 0.66 |
 
 > Fill in your results after training.
 
